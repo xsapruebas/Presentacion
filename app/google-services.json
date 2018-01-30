@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "791257433599",
+    "firebase_url": "https://notablenotes-28616.firebaseio.com",
+    "project_id": "notablenotes-28616",
+    "storage_bucket": "notablenotes-28616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791257433599:android:b9ca9a5d6515cedd",
+        "android_client_info": {
+          "package_name": "com.xsa.mobilityfriday.presentacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791257433599-v54rn26kfqjg55j72jn4fd8o6mh179fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjrqS6cmVSz5Ik0N1nJmzoLJq4F138FHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
